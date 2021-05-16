@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="/css/styles.css">
+    <title>namkwangwoo 블로그</title>
+</head>
+<body>
+    <div style="margin-top:60px"><div class="header-font"><div class="center-text"><h1 class="center"><a href="/">{{.Title}}<br></a></h1></div></div></div>
+    <p>{{.Content}}</p>
+    {{ range .Pages }}
+        {{ range .Pages }}
+
+            <div class="center">
+                <li>
+                <a href="{{.Permalink}}">{{.Date.Format "2006-01-02"}} | {{.Title}}</a>
+                </li>
+            </div>
+
+        {{ end }}
+    {{ end }}
+</body>
+</html>
