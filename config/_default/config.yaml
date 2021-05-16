@@ -1,1 +1,2 @@
 publishDir: docs
+baseURL: https://namkwangwoo.github.io
