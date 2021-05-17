@@ -23,14 +23,14 @@
 @media screen and (max-width:1028px) {
     .center {
         margin: auto;
-        width: 80%;
+        width: 60%;
         padding: 10px;
     }
     .header-font {
-        font-size: 40px
+        font-size: 60px
     }
     .content-font {
-        font-size: 25px
+        font-size: 40px
     }
 }
 
