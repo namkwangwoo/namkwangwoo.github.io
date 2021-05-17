@@ -13,6 +13,12 @@
         width: 400px;
         padding: 10px;
     }
+    .header-font {
+        font-size: 30px
+    }
+    .content-font {
+        font-size: 20px
+    }
 }
 @media screen and (max-width:1028px) {
     .center {
@@ -20,12 +26,16 @@
         width: 80%;
         padding: 10px;
     }
+    .header-font {
+        font-size: 40px
+    }
+    .content-font {
+        font-size: 25px
+    }
 }
 
 .center-text {
     text-align: center;
 }
 
-.header-font {
-    font-size: 30px
-}
+
