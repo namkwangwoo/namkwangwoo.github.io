@@ -8,6 +8,19 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 12 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://namkwangwoo.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>오늘의 뻘 생각</title>
+      <link>https://namkwangwoo.github.io/posts/2021-06-05-today-thinking/</link>
+      <pubDate>Sat, 05 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://namkwangwoo.github.io/posts/2021-06-05-today-thinking/</guid>
+      <description>오늘의 뻘 생각.
+조직의 규모가 커지면서 커뮤니케이션에 대해서 많은 고민과 전략이 필요하다. 10명 남짓한 팀에서 유효한 커뮤니케이션 방법이 200명 팀에게 먹히지 않을 것이다.
+커뮤니케이션 전략 없이 n명 규모의 팀이 서로 커뮤니케이션 한다고 해보자. 한 사람이 자신의 생각을 모두에게 알리기 위해서는 n-1번의 커뮤니케이션이 필요하다. 규모가 작은 조직에서는 별 문제가 안되겠지만 규모가 커지면 커질 수록 커뮤니케이션 비용을 도저히 감당 할 수 없을 것이다.
+커뮤니케이션 비용을 줄이기 위한 방법에는 여러가지가 있을 것이다.
+ 효율적인 조직도를 구성 한다.</description>
+    </item>
+    
+    <item>
       <title>블로그 개시</title>
       <link>https://namkwangwoo.github.io/posts/2021-05-16-hello-world/</link>
       <pubDate>Sun, 16 May 2021 00:00:00 +0000</pubDate>
