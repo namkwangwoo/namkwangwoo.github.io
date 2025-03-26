@@ -1,7 +1,6 @@
 ---
-title: "Agent Horizon and Dreaming"
-date: 2025-03-27
-draft: false
+title: "Agent Horizon & Agent Dreaming"
+date: 2025-03-27T00:00:00+09:00
 ---
 
 에이전트 호라이즌 & 에이전트 드리밍: 종합적 통찰 보고서
