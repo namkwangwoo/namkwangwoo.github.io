@@ -1,5 +1,5 @@
 ---
-title: "Agent Dreaming"
+title: "Agent Horizon and Dreaming"
 date: 2025-03-27
 ---
 
