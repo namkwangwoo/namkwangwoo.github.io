@@ -1,7 +1,7 @@
 baseURL = 'https://namkwangwoo.github.io/namkwangwoo.github.io/'
 languageCode = 'ko-kr'
 title = '초안 블로그'
-description = '이 블로그는 개인적인 공간으로, 생각, 아이디어, 경험을 공유합니다.'
+description = '개인적인 생각, 아이디어, 경험을 공유하는 공간입니다. 기술, AI, 개발, 그리고 일상의 성찰을 다루는 블로그입니다.'
 theme = "papermod"
 
 [taxonomies]
